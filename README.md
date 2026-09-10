@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Talha 👋
 
-<!--
-**Professorlegit-66/Professorlegit-66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+BS Software Engineering student, currently learning Machine Learning and building 
+full-stack AI-powered applications. Recently shipped [Document Summarizer](https://github.com/Professorlegit-66/document-summarizer) 
+— a deployed FastAPI + React app using Groq for AI inference.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🔭 Currently building agentic AI / RAG projects
+- 🌱 Learning: Machine Learning, Agentic AI
+- 💬 Ask me about: FastAPI, React, AI integration, deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reach me
+- Email: talhakhan111221@gmail.com
+
+## My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Professorlegit-66&show_icons=true&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Professorlegit-66&theme=dark)
